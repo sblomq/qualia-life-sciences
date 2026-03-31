@@ -5,3 +5,6 @@ FIFE = Frailty Index for Elders,
 RAND = Research and Development Corporation (RAND) Short Form Health Survey (SF-36),
 Safety = Custom Safety and Tolerability Survey to examine common effects assoiated with nocebo,
 BiomarkerRaw = Raw data from Olink Target 48 Cytokine assay. 
+## License
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+See the [LICENSE](LICENSE) file for details.
